@@ -1,6 +1,6 @@
 # Hi there, I'm Sebastian 👋
 
-**I am a Full-Stack developer.**
+**I am a Full-Stack Developer.**
 
 - 💻 I’m currently working on [AdopcionesEc](https://github.com/sebGilR/AdopcionesEc), a platform to make adopting a pet easier.
 - ⚙️ I use in my projects: **css, sass, ruby, ruby on rails, postgresql, javascript, react, redux.**
