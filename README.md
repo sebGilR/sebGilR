@@ -2,7 +2,6 @@
 
 **I am a Full-Stack Developer.**
 
-- 💻 I’m currently working on [AdopcionesEc](https://github.com/sebGilR/AdopcionesEc), a platform to make adopting a pet easier.
 - ⚙️ I use in my projects: **css, sass, ruby, ruby on rails, postgresql, mysql, javascript, react, redux.**
 - 📫 Message me on [LinkedIn](https://www.linkedin.com/in/sebastiangilrodriguez/) or [Twitter](https://twitter.com/sebGilR).
 - 😄 Passionate about using code to make people's (and animals) lives better. I also love animals, nature, and airplanes 🛫.
